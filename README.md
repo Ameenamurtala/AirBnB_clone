@@ -1,2 +1,2 @@
 # AirBnB_clone
-This is first AirBnB clone project
+This is my first AirBnB clone project
